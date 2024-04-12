@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @kotak3
+- 👀 I’m interested in Data Analytics/Business Analytics
+- 👀 This Repository consists of my Projects on EDA, Principal Component Analysis, Pricing and Revenue Optimization, Regression Analysis, Tableau Dashboards and much more
+- 🌱 I’m currently learning advanced statistical techniques and machine learning algorithms
+- 💞️ I’m looking to collaborate on projects involving data-driven decision making and predictive modeling.
+- 📫 You can reach me via email at krishnamanasakota@gmail.com or connect with me on Linked In at https://www.linkedin.com/in/krishna-manasa-kota-7433ab176
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love exploring new datasets and finding hidden insights using Python,Tableau, IBM Watson Studio and SQL!
